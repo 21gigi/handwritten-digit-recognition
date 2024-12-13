@@ -13,12 +13,6 @@ Ensure you have Python 3.8 or later installed on your system. Install the requir
 pip install -r requirements.txt
 ```
 
-Alternatively, you can manually install the required libraries:
-
-```bash
-pip install tensorflow numpy pillow opencv-python
-```
-
 ---
 
 ## **Running the Application**
