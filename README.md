@@ -93,6 +93,14 @@ This project utilizes the MNIST dataset, a widely used benchmark dataset for ima
 
 The file `photo_2.jpg` used in this project is sourced from the [Handwritten Digit Recognition GitHub repository](https://github.com/ehsanmqn/handwritten-digit-recognition/blob/master/photo_2.jpg).
 
+This project is the final project of third-year Computer Science students:
+- Nicole Bermundo
+- Angela Cabanes
+- Zynnon Kyle Depoo
+- Michaela Jornales
+
+under the Artificial Intelligence course.
+
 ---
 
 ## **License**
