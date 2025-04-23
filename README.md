@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition
+# Digit-tal Decoder: Handwritten Digit Recognition
 
 This project is a Python-based application that uses a Convolutional Neural Network (CNN) to recognize handwritten digits. The application provides both an interactive graphical user interface (GUI) for image-based digit recognition and a real-time camera-based digit recognition feature.
 
